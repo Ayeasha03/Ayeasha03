@@ -6,7 +6,7 @@
 
 I'm a passionate **[software developer/ frontend developer]** with experience in **[coding]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[software development]**
+- 🌱 Currently learning: **software development**
 - 🔭 Working on: **[Personal portfolio webpage]**
 - 🌍 Languages: **[HTML, CSS, Javascript, React.j, Node.js ]**
 - 📫 How to reach me: **[asafaaishat45@gmail.com]**
