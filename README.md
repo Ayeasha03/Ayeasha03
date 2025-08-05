@@ -1,6 +1,6 @@
 # Hi there, I'm [Aishat]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://github.com/Ayeasha03/Ayeasha03/blob/6207488bd1f405b9ea0db3aa98067a0386b7b8fb/banner%20image.png)
 
 ## About Me 🚀
 
