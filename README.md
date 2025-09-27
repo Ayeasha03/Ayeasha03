@@ -37,13 +37,13 @@ I'm a passionate **Full Stack Web Developer** skilled in building modern web app
 
 ## 💻 Featured Projects
 
-### [🎬 Movie Website](https://github.com/aesharh/movie-website)
+### [🎬 Movie Website](https://github.com/Ayeasha03/TMP)
 
-![Screenshot](https://your-image-link.com/movie-site.png)
+![Screenshot](https://github.com/Ayeasha03/TMP/blob/main/docs/images/tmp-screenshot.png)
 
-A movie discovery site built using **React.js**, **TMDb API**, and **Tailwind CSS**. It displays recommended, trending, and popular movies. Demonstrates API consumption and responsive UI design.
+A movie discovery site built using **HTML5**, **CSS3**, and **TypeScript**. It displays recommended, trending, and popular movies. Demonstrates API consumption and responsive UI design.
 
-👉 [View Repo](https://github.com/aesharh/movie-website)
+👉 [View Repo](https://ayeasha03.github.io/TMP/index.html)
 
 ---
 
